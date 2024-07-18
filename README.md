@@ -61,7 +61,4 @@ I'm currently learning about the Linux Ecosystem besides i'm developing while le
 </div>
 
 ###
-`Also share music, why not` 
-
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dropdibemol&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
