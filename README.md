@@ -1,13 +1,40 @@
-### HI There, Developer On Duty! ⚡
+## 🌟 HI There, I'm Alexis, developer On Duty! ⚡
 
-> I Feel very happy sometimes about the fact to be in the tect industry in this history's moment where there are lots of sectors and new tecnologies carrying with them breaking new perspectives but also innovation 🌱.
+I’m a Full-Stack Developer with a strong focus on backend development based on Peru 🇵🇪.
+I specialize in building robust, scalable, and secure applications, leveraging modern technologies and best practices. My goal is to create impactful software that solves real-world problems.
 
-I'll be honest, coding and learning about wether tecnology , some new language, or hardware relate keeps my inner child amazed and exciting for what's comming next and how could that improves majority's life 🌱🌱.
+### 💼 What I Bring:
+1) **Backend Expertise**: Proficient in Node JS (Typescript, Javascript) and Dotnet (CShark). Following best practices in order to create clean, maintainable code with a focus on quality and security. 
+2) **Frontend Skills**: Experienced in HTML, CSS, Valilla JS, React, React Native and Next.
+3) **Database Mastery**: Hands-on with both SQL (PostgreSQL, MySQL, etc) and NoSQL (MongoDB, Firestore, etc) databases.
+4) **Soft Skills**: Team player, good comunication habilities and good sense of priorities focus. 
 
-I trully belive in the open source community and i'm interested in collaborate on those besides the ones i could develop by myself and any other people who wants to collaborate!😄
+### 📂 Projects in Focus:
+#### Kiwi: 
+- **Description**: This is a web aplication which porpuse is to give people the posibility to adquire loans to affort medic procedures.
+- **Tech Stack**: This Web App uses React JS, React Router Dom, Typescript , Express and others tecnologies.
+- **Highlights**: This proyect includes several modules as a Web interface, payment flow integrations, IA document validation integration, credit and financial apis such `Cavali` and `Experian` integration, etc.
+> [!note]  
+> If you'd like to visit the website please click here: [Visit Kiwi](https://kiwi-front-8xih.onrender.com/home).
 
-I'm currently learning about the Linux Ecosystem besides i'm developing while learning smalls projects with GOLANG and other stuff  ✨✨
-###
+#### Boto:
+- **Description**: This is a personal proyect in development, this is a terminal-use interface support for developer in order to get IA chat avalible and other useful tools in their own workflow.
+- **Tech Stack**: This Terminal App is based on Dotnet tecnologies written on C# language.
+- **Highlights**: This proyect make uses of HTTP protocols to comunicate with diferent Web Apis, File system mannagement implementations, etc.
+
+### 📫 Let’s Connect!
+Thanks for taking the time to read through my README! If you'd like to know more about my professional background, current projects, or future goals, feel free to connect with me. I’m always open to discussing new opportunities, collaborations, or simply exchanging ideas.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alexisperdomod/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:alexisperdomossss@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=ea4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
+  </a>
+</div>
+
+<br clear="both">
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="6" />
@@ -43,22 +70,15 @@ I'm currently learning about the Linux Ecosystem besides i'm developing while le
 </div>
 
 ###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alexisperdomod&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexisperdomod&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-###
 
-<br clear="both">
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/alexisperdomod/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+
+
 
 ###
 
