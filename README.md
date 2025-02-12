@@ -7,7 +7,7 @@ I specialize in building robust, scalable, and secure applications, leveraging m
 1) **Backend Expertise**: Proficient in Node JS (Typescript, Javascript) and Dotnet (CShark). Following best practices in order to create clean, maintainable code with a focus on quality and security. 
 2) **Frontend Skills**: Experienced in HTML, CSS, Valilla JS, React, React Native and Next.
 3) **Database Mastery**: Hands-on with both SQL (PostgreSQL, MySQL, etc) and NoSQL (MongoDB, Firestore, etc) databases.
-4) **Soft Skills**: Team player, good comunication habilities and good sense of priorities focus. 
+4) **Soft Skills**: Team player, good communication abilities and good sense of priorities focus. 
 
 ### 📂 Projects in Focus:
 #### Kiwi: 
