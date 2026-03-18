@@ -1,6 +1,6 @@
 ## 🌟 HI There, I'm Alexis, developer On Duty! ⚡
 
-I’m a Full-Stack Developer with a strong focus on backend development based on Peru 🇵🇪.
+I’m a Full-Stack Developer with a strong focus on backend development.
 I specialize in building robust, scalable, and secure applications, leveraging modern technologies and best practices. My goal is to create impactful software that solves real-world problems.
 
 ### 💼 What I Bring:
@@ -8,19 +8,6 @@ I specialize in building robust, scalable, and secure applications, leveraging m
 2) **Frontend Skills**: Experienced in HTML, CSS, Valilla JS, React,React Router DOM, React Native Expo framework.
 3) **Database Mastery**: Hands-on with both SQL (PostgreSQL, MySQL, etc) and NoSQL (MongoDB, Firestore, etc) databases.
 4) **Soft Skills**: Team player, good communication abilities and good sense of priorities focus. 
-
-### 📂 Projects in Focus:
-#### Kiwi: 
-- **Description**: This is a web aplication which porpuse is to give people the posibility to adquire loans to affort medic procedures.
-- **Tech Stack**: This Web App uses React JS, React Router Dom, Typescript , Express and others tecnologies.
-- **Highlights**: This proyect includes several modules as a Web interface, payment flow integrations, IA document validation integration, credit and financial apis such `Cavali` and `Experian` integration, etc.
-> [!note]  
-> If you'd like to visit the website please click here: [Visit Kiwi](https://kiwipay.pe).
-
-#### Boto:
-- **Description**: This is a personal proyect in development, this is a terminal-use interface support for developer in order to get IA chat avalible and other useful tools in their own workflow.
-- **Tech Stack**: This Terminal App is based on Dotnet tecnologies written on C# language.
-- **Highlights**: This proyect make uses of HTTP protocols to comunicate with diferent Web Apis, File system mannagement implementations, etc.
 
 ### 📫 Let’s Connect!
 Thanks for taking the time to read through my README! If you'd like to know more about my professional background, current projects, or future goals, feel free to connect with me. I’m always open to discussing new opportunities, collaborations, or simply exchanging ideas.
