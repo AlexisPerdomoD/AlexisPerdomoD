@@ -1,70 +1,58 @@
-## 🌟 HI There, I'm Alexis, developer On Duty! ⚡
+# Alexis Perdomo
 
-I’m a Full-Stack Developer with a strong focus on backend development.
-I specialize in building robust, scalable, and secure applications, leveraging modern technologies and best practices. My goal is to create impactful software that solves real-world problems.
+Backend Engineer focused on Go, Python, PostgreSQL and scalable backend systems.
 
-### 💼 What I Bring:
-1) **Backend Expertise**: Proficient in Node JS (Typescript, Javascript) and Dotnet (CShark) and Golang. Following best practices in order to create clean, maintainable code with a focus on quality and security. 
-2) **Frontend Skills**: Experienced in HTML, CSS, Valilla JS, React,React Router DOM, React Native Expo framework.
-3) **Database Mastery**: Hands-on with both SQL (PostgreSQL, MySQL, etc) and NoSQL (MongoDB, Firestore, etc) databases.
-4) **Soft Skills**: Team player, good communication abilities and good sense of priorities focus. 
+Currently working on backend architecture, distributed systems fundamentals, concurrency patterns and platform-oriented engineering.
 
-### 📫 Let’s Connect!
-Thanks for taking the time to read through my README! If you'd like to know more about my professional background, current projects, or future goals, feel free to connect with me. I’m always open to discussing new opportunities, collaborations, or simply exchanging ideas.
+## Main Focus
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/alexisperdomod/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:alexisperdomossss@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=ea4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
-  </a>
-</div>
+- Backend Systems
+- Go & Python Services
+- PostgreSQL
+- Distributed Systems
+- Concurrency
+- Observability
+- Platform Engineering
+- Infrastructure-Oriented Development
 
-<br clear="both">
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="30" alt="handlebars logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-</div>
+## Stack
 
-###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=alexisperdomod&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexisperdomod&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- Go
+- Python
+- PostgreSQL
+- Docker
+- Linux
+- AWS
+- TypeScript
+- Java 
+- C#
 
+## Featured Projects
 
+### owned-backend
+Backend ownership platform built with Go and PostgreSQL using layered architecture, transactional unit-of-work patterns and hierarchical modeling with PostgreSQL `ltree`.
 
+### distributed-job-system
+Experimental concurrent job processing system focused on worker pools, retries, cancellation propagation and queue orchestration in Go.
 
+### realtime-gateway
+Realtime websocket communication service exploring concurrent connection handling and event-driven backend patterns.
+
+## Current Interests
+
+- Distributed architectures
+- Backend performance
+- Concurrency patterns in Go
+- PostgreSQL internals
+- Observability
+- Infrastructure tooling
+- Systems-oriented backend engineering
+
+## Contact
+
+- LinkedIn: linkedin.com/in/alexisperdomod
+- GitHub: github.com/AlexisPerdomoD
+- Email: alexisperdomossss@gmail.com
 
 
 ###
