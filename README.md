@@ -1,6 +1,6 @@
 # Alexis Perdomo
 
-Mid-Senior Backend Engineer building platform-oriented systems with Go, Python, and PostgreSQL.
+Senior Backend Engineer building platform-oriented systems with Go, Python, and PostgreSQL.
 
 Focused on designing and implementing backend systems that handle high-volume data processing, complex business logic, and distributed architectures. Interested in platform engineering, infrastructure tooling, and understanding systems at the fundamental level.
 
