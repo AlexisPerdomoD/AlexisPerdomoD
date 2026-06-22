@@ -29,7 +29,7 @@ Backend development for healthcare scheduling systems and financial calculation 
 
 **Stack:** TypeScript, Go, PostgreSQL, JWT, External API integrations
 
-## Featured Projects
+## Featured Personal Projects
 
 ### Ownned 
 
