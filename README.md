@@ -59,23 +59,6 @@ Zero external dependencies, RESP2/RESP3 protocol, GET/SET/DEL/HSET/HGET/EXPIRE/T
 
 ---
 
-## Distributed Systems
-
-Experimental projects exploring distributed systems fundamentals:
-
-- **Worker pools & job orchestration** (planned)
-- **WebSocket gateway** for real-time communication (planned)
-- **Custom protocol implementations** (Redix)
-
-Building these from scratch to understand concurrency, fault tolerance, and system design principles.
-
-## Stack
-
-**Backend:** Go · Python · TypeScript  
-**Databases:** PostgreSQL · Redis · CockroachDB · SQLite (future)  
-**Infrastructure:** Docker · Linux · AWS  
-**Tools:** Git · Neovim · zsh
-
 ## Contact
 
 - GitHub: [github.com/AlexisPerdomoD](https://github.com/AlexisPerdomoD)
