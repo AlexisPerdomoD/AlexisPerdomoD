@@ -31,6 +31,20 @@ Backend development for healthcare scheduling systems and financial calculation 
 
 ## Featured Projects
 
+### Ownned 
+
+Self-hosted cloud storage platform with hierarchical folder structure and granular permissions. Built with DDD architecture patterns.
+
+Role-based access control (Super User, Normal User, Limited User), group-based sharing with read/write/owner levels, document management with comments, and JWT + Argon2 authentication.
+
+**Stack:** Go 1.25 · PostgreSQL 16 (ltree, pgvector) · SolidJS · TailwindCSS 4 · GPL-3.0
+
+**Roadmap:** SQLite driver for small deployments, streaming downloads, video player, document viewer, mobile & smart TV clients.
+
+[Repository](https://github.com/AlexisPerdomoD/ownned) · [License](https://github.com/AlexisPerdomoD/ownned/blob/main/LICENSE)
+
+---
+
 ### Redix 
 
 Redis-compatible in-memory datastore built from scratch in Go.
@@ -42,18 +56,6 @@ Zero external dependencies, RESP2/RESP3 protocol, GET/SET/DEL/HSET/HGET/EXPIRE/T
 > "What I cannot create, I do not understand" — Richard Feynman
 
 [Repository](https://github.com/AlexisPerdomoD/redix) · [MIT License](https://github.com/AlexisPerdomoD/redix/blob/main/LICENSE)
-
----
-
-### owned-backend
-
-Cloud storage platform with hierarchical folder structure and granular permissions.
-
-Role-based access control (Super User, Normal User, Limited User), group-based sharing, document management with comments. Built with DDD architecture patterns.
-
-**Stack:** Go 1.25 · PostgreSQL 16 (ltree, pgvector) · JWT + Argon2 · SolidJS frontend
-
-[Repository](https://github.com/AlexisPerdomoD/owned-backend)
 
 ---
 
@@ -70,7 +72,7 @@ Building these from scratch to understand concurrency, fault tolerance, and syst
 ## Stack
 
 **Backend:** Go · Python · TypeScript  
-**Databases:** PostgreSQL · Redis · CockroachDB  
+**Databases:** PostgreSQL · Redis · CockroachDB · SQLite (future)  
 **Infrastructure:** Docker · Linux · AWS  
 **Tools:** Git · Neovim · zsh
 
