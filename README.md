@@ -63,4 +63,4 @@ Zero external dependencies, RESP2/RESP3 protocol, GET/SET/DEL/HSET/HGET/EXPIRE/T
 
 - GitHub: [github.com/AlexisPerdomoD](https://github.com/AlexisPerdomoD)
 - LinkedIn: [linkedin.com/in/alexisjperdomod](https://www.linkedin.com/in/alexisjperdomod)
-- Email: alexisperdomossss@gmail.com
+- Email: alexisjperdomod@gmail.com
