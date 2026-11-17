@@ -1,66 +1,67 @@
 # Alexis Perdomo
 
-Senior Backend Engineer building platform-oriented systems with Go, Python, and PostgreSQL.
+Backend engineer. I build product backends, and the guardrails that keep AI agents from breaking
+them.
 
-Focused on designing and implementing backend systems that handle high-volume data processing, complex business logic, and distributed architectures. Interested in platform engineering, infrastructure tooling, and understanding systems at the fundamental level.
-
-## Focus Areas
-
-Platform Engineering · Backend Systems · Distributed Architecture  
-API Design · Go & Python Services · PostgreSQL · Redis · Docker
-
-## Experience
-
-### Backend Systems & Architecture
-
-Designing and building backend systems with focus on scalability, observability, and maintainability. Experience with hexagonal/clean architecture patterns, domain-driven design, and distributed systems fundamentals.
-
-**Stack:** Go, Python, PostgreSQL, Redis, Docker
-
-### Data-Intensive Systems
-
-Building systems that process and normalize high-volume data from multiple sources. Experience with ETL pipelines, data homologation, and complex queries across relational databases.
-
-**Stack:** Python, PostgreSQL, Redis, REST APIs
-
-### Healthcare & Financial Platforms
-
-Backend development for healthcare scheduling systems and financial calculation engines. Multi-tenant architectures, role-based access control, and secure payment processing integrations.
-
-**Stack:** TypeScript, Go, PostgreSQL, JWT, External API integrations
-
-## Featured Personal Projects
-
-### Ownned 
-
-Self-hosted cloud storage platform with hierarchical folder structure and granular permissions. Built with DDD architecture patterns.
-
-Role-based access control (Super User, Normal User, Limited User), group-based sharing with read/write/owner levels, document management with comments, and JWT + Argon2 authentication.
-
-**Stack:** Go 1.25 · PostgreSQL 16 (ltree, pgvector) · SolidJS · TailwindCSS 4 · GPL-3.0
-
-**Roadmap:** SQLite driver for small deployments, streaming downloads, video player, document viewer, mobile & smart TV clients.
-
-[Repository](https://github.com/AlexisPerdomoD/ownned) · [License](https://github.com/AlexisPerdomoD/ownned/blob/main/LICENSE)
+Python · TypeScript · Go · PostgreSQL · Azure & GCP
 
 ---
 
-### Redix 
+## What I work on
 
-Redis-compatible in-memory datastore built from scratch in Go.
+**Product backends with real domain weight.** Revenue and rebate engines, multi-tenant APIs with
+capability-based access, document ingestion and versioning. The kind of system where a wrong number
+is a business problem, not a bug.
 
-Zero external dependencies, RESP2/RESP3 protocol, GET/SET/DEL/HSET/HGET/EXPIRE/TTL, production-grade persistence (AOF/RDB).
+**AI systems that have to be right.** Retrieval-backed product backends (Postgres/pgvector,
+document ingestion and versioning), MCP servers, and agent workflows where deterministic scripts
+own the facts and models only own the judgment.
 
-**Stack:** Go · RFC compliant networking · Custom protocol implementation
+**Delivery governance.** An execution harness for AI-assisted delivery: the project board is the
+single source of truth, and the harness covers technical discovery, issue breakdown, plan gates,
+evidence-backed builds, fresh-session review and release verification.
 
-> "What I cannot create, I do not understand" — Richard Feynman
+## How I work
 
-[Repository](https://github.com/AlexisPerdomoD/redix) · [MIT License](https://github.com/AlexisPerdomoD/redix/blob/main/LICENSE)
+1. **Correctness is enforced, not assumed.** Schema, types, architecture rules and tests make the
+   wrong state hard to reach.
+2. **Failure is explicit.** A missing guard blocks the action instead of degrading quietly.
+3. **Boundaries first.** Domain, transport and persistence are separated before the first feature,
+   because that is when it is cheap.
+4. **Decisions are written.** Assumptions get IDs, scope changes get history, and the next person
+   should not need archaeology.
+5. **Subtraction is part of the design.** The most recent change to the harness was removing
+   planning, estimation and reporting from its scope.
 
----
+## Currently
+
+Rebuilding the agent harness around the project board: technical discovery only, no planning and no
+estimation. Pruning the base of anything not tied to a stage and a caller.
+
+## Selected work
+
+| Project | What it is | Why it matters |
+| --- | --- | --- |
+| [redix](https://github.com/AlexisPerdomoD/redix) | Redis-compatible datastore in Go, zero dependencies | RESP2/RESP3, AOF/RDB, expiration semantics — protocol and persistence from the inside |
+| [deterministic-executor](https://github.com/AlexisPerdomoD/deterministic-executor) | Stack VM library in Rust | Either the resulting state or an error, never a partial result |
+| [ownned](https://github.com/AlexisPerdomoD/ownned) | Self-hosted cloud storage, Go + SolidJS | Hierarchical permissions with ltree, vector search with pgvector, JWT + Argon2 |
+| [local-ia](https://github.com/AlexisPerdomoD/local-ia) | Local inference workstation (Arch, Ollama/Vulkan) | Reproducible profiles for long-context agents and millisecond completions, fully offline |
+
+## At work (private)
+
+- **Revenue & rebates platform** — Python/FastAPI, PostgreSQL, Azure AD. Rebates, markups,
+  FT0–FT12 forecasts, provider homologation over 600+ brands and 1,500+ media providers.
+- **Education AI platform** — NestJS, Postgres + pgvector, GCP. Curriculum domain,
+  capability-based RBAC, document versioning.
+- **Agent execution harness** — board-centered execution, fail-closed guards, fresh-session review.
+  Design notes: [agent-harness-notes](https://github.com/AlexisPerdomoD/agent-harness-notes).
+
+## Stack
+
+Python (FastAPI) · TypeScript (Node.js, NestJS) · Go · PostgreSQL · Redis · SQL Server · Docker ·
+Terraform · GitHub Actions · Azure · GCP
 
 ## Contact
 
-- GitHub: [github.com/AlexisPerdomoD](https://github.com/AlexisPerdomoD)
-- LinkedIn: [linkedin.com/in/alexisjperdomod](https://www.linkedin.com/in/alexisjperdomod)
-- Email: alexisjperdomod@gmail.com
+[LinkedIn](https://www.linkedin.com/in/alexisperdomod) ·
+[Email](mailto:alexisjperdomod@gmail.com)
