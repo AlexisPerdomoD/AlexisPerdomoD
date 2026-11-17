@@ -45,7 +45,6 @@ estimation. Pruning the base of anything not tied to a stage and a caller.
 | [redix](https://github.com/AlexisPerdomoD/redix) | Redis-compatible datastore in Go, zero dependencies | RESP2/RESP3, AOF/RDB, expiration semantics — protocol and persistence from the inside |
 | [deterministic-executor](https://github.com/AlexisPerdomoD/deterministic-executor) | Stack VM library in Rust | Either the resulting state or an error, never a partial result |
 | [ownned](https://github.com/AlexisPerdomoD/ownned) | Self-hosted cloud storage, Go + SolidJS | Hierarchical permissions with ltree, vector search with pgvector, JWT + Argon2 |
-| [local-ia](https://github.com/AlexisPerdomoD/local-ia) | Local inference workstation (Arch, Ollama/Vulkan) | Reproducible profiles for long-context agents and millisecond completions, fully offline |
 
 ## At work (private)
 
